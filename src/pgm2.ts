@@ -1,0 +1,10 @@
+let num1:number=10;
+let num2:number=20;
+let sum:number=num1+num2;
+let sub:number=num1-num2;
+let mul:number=num1*num2;
+let div:number=num1/num2;
+console.log('The sum of two numbers is : '+sum);
+console.log('The sub of two numbers is : '+sub);
+console.log('The mul of two numbers is : '+mul);
+console.log('The div of two numbers is : '+div);
