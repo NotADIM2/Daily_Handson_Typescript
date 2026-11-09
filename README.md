@@ -30,6 +30,7 @@ This repository documents my journey of learning TypeScript through small daily 
 | [pgm2.ts](src/pgm2.ts) | Simple calculator | Arithmetic operators |
 | [pgm3.ts](src/pgm3.ts) | Even or odd | `if` / `else` |
 | [pgm4.ts](src/pgm4.ts) | Compare two numbers | `if` / `else if` / `else` |
+| [pgm5.ts](src/pgm5.ts) | Multiplication table | `for` loop |
 
 ## 📁 Structure
 
